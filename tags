@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+.App 	client/src/App.css	/^.App {$/;"	c
+.App-header 	client/src/App.css	/^.App-header {$/;"	c
+.App-intro 	client/src/App.css	/^.App-intro {$/;"	c
+.App-logo 	client/src/App.css	/^.App-logo {$/;"	c
+.App-title 	client/src/App.css	/^.App-title {$/;"	c
+App-logo-spin 	client/src/App.css	/^@keyframes App-logo-spin {$/;"	s
+body 	client/src/index.css	/^body {$/;"	s
+checkValidServiceWorker	client/src/registerServiceWorker.js	/^function checkValidServiceWorker(swUrl) {$/;"	f
+fib	worker/index.js	/^function fib(index) {$/;"	f
+redisHost	server/keys.js	/^  redisHost: process.env.REDIS_HOST,$/;"	p	class:module.exports
+redisHost	worker/keys.js	/^  redisHost: process.env.REDIS_HOST,$/;"	p	class:module.exports
+registerValidSW	client/src/registerServiceWorker.js	/^function registerValidSW(swUrl) {$/;"	f
+seenIndexes	client/src/Fib.js	/^    seenIndexes: [],$/;"	p	class:class
+to 	client/src/App.css	/^  to { transform: rotate(360deg); }$/;"	s
